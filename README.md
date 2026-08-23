@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dheer46/my-dsa-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Dheer46/my-dsa-solutions/tree/master/2396-strictly-palindromic-number) |
+| [3794-reverse-string-prefix](https://github.com/Dheer46/my-dsa-solutions/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Dheer46/my-dsa-solutions/tree/master/2396-strictly-palindromic-number) |
+## String
+|  |
+| ------- |
+| [3794-reverse-string-prefix](https://github.com/Dheer46/my-dsa-solutions/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
