@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Dheer46/my-dsa-solutions/tree/master/0832-flipping-an-image) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dheer46/my-dsa-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dheer46/my-dsa-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dheer46/my-dsa-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dheer46/my-dsa-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0763-partition-labels](https://github.com/Dheer46/my-dsa-solutions/tree/master/0763-partition-labels) |
+| [0832-flipping-an-image](https://github.com/Dheer46/my-dsa-solutions/tree/master/0832-flipping-an-image) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dheer46/my-dsa-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Dheer46/my-dsa-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dheer46/my-dsa-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Dheer46/my-dsa-solutions/tree/master/0832-flipping-an-image) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dheer46/my-dsa-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Brainteaser
 |  |
@@ -61,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0763-partition-labels](https://github.com/Dheer46/my-dsa-solutions/tree/master/0763-partition-labels) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dheer46/my-dsa-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Dheer46/my-dsa-solutions/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Dheer46/my-dsa-solutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
