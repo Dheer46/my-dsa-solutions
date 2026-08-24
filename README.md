@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/Dheer46/my-dsa-solutions/tree/master/0763-partition-labels) |
 | [3945-digit-frequency-score](https://github.com/Dheer46/my-dsa-solutions/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/Dheer46/my-dsa-solutions/tree/master/0763-partition-labels) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dheer46/my-dsa-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Dheer46/my-dsa-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dheer46/my-dsa-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/Dheer46/my-dsa-solutions/tree/master/0763-partition-labels) |
 | [2000-reverse-prefix-of-word](https://github.com/Dheer46/my-dsa-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3794-reverse-string-prefix](https://github.com/Dheer46/my-dsa-solutions/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
@@ -54,5 +57,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/Dheer46/my-dsa-solutions/tree/master/0763-partition-labels) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dheer46/my-dsa-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 <!---LeetCode Topics End-->
