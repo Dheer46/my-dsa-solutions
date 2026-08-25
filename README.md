@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dheer46/my-dsa-solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Dheer46/my-dsa-solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Dheer46/my-dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0832-flipping-an-image](https://github.com/Dheer46/my-dsa-solutions/tree/master/0832-flipping-an-image) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dheer46/my-dsa-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dheer46/my-dsa-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dheer46/my-dsa-solutions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Dheer46/my-dsa-solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Dheer46/my-dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dheer46/my-dsa-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0763-partition-labels](https://github.com/Dheer46/my-dsa-solutions/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/Dheer46/my-dsa-solutions/tree/master/0832-flipping-an-image) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dheer46/my-dsa-solutions/tree/master/0042-trapping-rain-water) |
 | [2000-reverse-prefix-of-word](https://github.com/Dheer46/my-dsa-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Greedy
 |  |
@@ -77,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Dheer46/my-dsa-solutions/tree/master/0832-flipping-an-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dheer46/my-dsa-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dheer46/my-dsa-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
