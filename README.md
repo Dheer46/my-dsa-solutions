@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/Dheer46/my-dsa-solutions/tree/master/0763-partition-labels) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Dheer46/my-dsa-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/Dheer46/my-dsa-solutions/tree/master/3945-digit-frequency-score) |
 ## Math
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dheer46/my-dsa-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dheer46/my-dsa-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Dheer46/my-dsa-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Dheer46/my-dsa-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
